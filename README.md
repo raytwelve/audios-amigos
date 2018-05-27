@@ -1,5 +1,5 @@
 # audios-amigos
-##Helps in downloading audio from "" music streaming platform
+## Helps in downloading audio from "" music streaming platform
 
 This certain music streaming platform breaks their music file into many smaller segments, and the order of which to play the files and directory of each segment in a m3u file.
 
